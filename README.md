@@ -5,3 +5,4 @@ Members:
 - Siddhi Joshi
 - Alson Athif
 - Minh Phan
+- Valentina Staneva
